@@ -1,7 +1,7 @@
  <H3>NAME: Lakshmi Priya P</H3>
 <H3>Reg No. 212221230053</H3>
 <H3>EX. NO.8</H3>
-<H3>DATE:</H3>
+<H3>DATE:05.05.24</H3>
 <H1 ALIGN =CENTER>Implementation of Speech Recognition</H1>
 <H3>Aim:</H3> 
  To implement the conversion of live speech to text.<BR>
